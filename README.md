@@ -1,48 +1,44 @@
-# Hi, I'm Muhammetaly 👋
+# 👋 Hi, I'm Muhammetaly Annageldiyew
 
-I'm an Information Technology student based in **Kuala Lumpur, Malaysia**, passionate about building clean, functional apps for both mobile and the web.
-
-I'm currently focused on **Flutter** for cross-platform mobile development and **full-stack web development** with PHP, MySQL, and JavaScript — and actively looking for an **internship opportunity** where I can contribute and grow.
-
----
-
-## 🛠️ Tech Stack
-
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-**Web**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+### 🚀 Full-Stack & Mobile Developer | BIT Student at Sunway University
+I am a dedicated developer focused on creating responsive, user-friendly interfaces and robust backend systems. Currently pursuing my **Bachelor of Science (Hons) in Information Technology**, I specialize in **Flutter** for mobile and **PHP/MySQL** for web platforms.
 
 ---
 
-## 📱 Featured Projects
+### 🛠️ My Tech Stack
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🌤️ Weather App](https://github.com/dev-muhammetaly/weather_app) | Live weather data by city or location — real-time API integration | Flutter, Dart |
-| [🛍️ Bag Shop App](https://github.com/dev-muhammetaly/bag_shop_app) | E-commerce shopping app with cart and state management | Flutter, Dart |
-| [🍽️ Meals App](https://github.com/dev-muhammetaly/meals_app) | Browse meals by category with dietary filters | Flutter, Dart |
-| [💸 Expense Tracker](https://github.com/dev-muhammetaly/expense_tracker) | Cross-platform expense tracker with Material Design UI | Flutter, Dart |
-| [🌐 HTTP Requesting App](https://github.com/dev-muhammetaly/http_requesting_app) | REST API fetching with async/await and JSON parsing | Flutter, Dart |
-| [📋 Menu App](https://github.com/dev-muhammetaly/menu_app) | Digital menu display with categories and pricing | Flutter, Dart |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
+| **Web & Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| **Other** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) |
 
 ---
 
-## 🎯 Currently
+### 🌟 Featured Projects
 
-- 📚 Studying **Information Technology**
-- 📱 Building cross-platform apps with **Flutter**
-- 🌐 Developing full-stack web apps with **PHP + MySQL**
-- 🔍 Open to **internship opportunities** in mobile or web development
+#### [🚀 GigLaunch — PHP Job Board](https://github.com/dev-muhammetaly/gig-launch-php)
+A complete full-stack platform for hiring and finding gigs. Features role-based dashboards for Workers, Employers, and Admins. Built with **PHP, MySQL, and Modern CSS**.
+
+#### [🎨 Personal Portfolio Website](https://github.com/dev-muhammetaly/portfolio)
+My professional hub that showcases my journey, education, and links to my latest work. Built with **HTML, CSS, and JavaScript**.
+
+#### [🛍️ Bag Shop App — Flutter](https://github.com/dev-muhammetaly/bag_shop_app)
+An e-commerce mobile application featuring clean UI and scalable state management using **Riverpod**.
 
 ---
 
-## 📬 Connect with me
+### 🌍 Languages
+I am fluent in four languages, enabling me to collaborate in diverse international environments:
+- 🇹🇲 **Turkmen** (Native)
+- 🇹🇷 **Turkish** (Fluent)
+- 🇷🇺 **Russian** (Fluent)
+- 🇺🇸 **English** (Professional)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetaly-annageldiyew-497608351)
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetaly-annageldiyew-497608351)
+
+---
+*“Building impactful digital solutions, one line of code at a time.”*
