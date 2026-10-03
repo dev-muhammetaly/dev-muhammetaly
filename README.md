@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammetaly Annageldiyew
+# 👋 Hi, I'm Muhammetaly Annageldiyev
 
 ### 🚀 Full-Stack & Mobile Developer | BIT Student at Sunway University
 I am a dedicated developer focused on creating responsive, user-friendly interfaces and robust backend systems. Currently pursuing my **Bachelor of Science (Hons) in Information Technology**, I specialize in **Flutter** for mobile and **PHP/MySQL** for web platforms.
