@@ -4,7 +4,7 @@ I'm an Information Technology student at Sunway University, building mobile and 
 
 Most of my recent work is around making complete app flows: browsing without an account, signing in, saving data and giving different users the right workspace.
 
-[Portfolio](https://dev-muhammetaly.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/muhammetaly-annageldiyew-497608351)
+[Portfolio](https://dev-muhammetaly.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/muhammetaly-annageldiyev-497608351/)
 
 ## What I work with
 
@@ -37,4 +37,4 @@ A menu and ordering app with sign-in, a cart and order history. Built with Flutt
 
 I speak Turkmen, Turkish, Russian and English. My repositories include both larger portfolio projects and smaller learning exercises, so their READMEs explain what works and what is still unfinished.
 
-If you're hiring an intern or would like to talk about a project, you can reach me through [LinkedIn](https://www.linkedin.com/in/muhammetaly-annageldiyew-497608351) or my [portfolio](https://dev-muhammetaly.github.io/portfolio).
+If you're hiring an intern or would like to talk about a project, you can reach me through [LinkedIn](https://www.linkedin.com/in/muhammetaly-annageldiyev-497608351/) or my [portfolio](https://dev-muhammetaly.github.io/portfolio).
