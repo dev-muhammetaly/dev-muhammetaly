@@ -62,9 +62,37 @@ I started learning Flutter through independent online coursework and continued b
 
 ### 02 — My toolkit
 
-![Mobile: Flutter, Dart, Riverpod. Backend: Supabase, REST APIs, Oracle SQL. Languages: Java, Python, PHP, HTML, CSS, JavaScript. Tools: Git, GitHub, Figma.](assets/skills.svg)
+<p><strong>Mobile</strong></p>
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-182C23?style=for-the-badge&amp;logo=flutter&amp;logoColor=54C5F8">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-182C23?style=for-the-badge&amp;logo=dart&amp;logoColor=54C5F8">
+</p>
 
-Flutter is my main focus. I also work with Firebase Realtime Database and keep developing my backend fundamentals. My networking coursework covers TCP/IP, VLANs, EtherChannel/LACP and Spanning Tree Protocol.
+<p><strong>Backend &amp; data</strong></p>
+<p>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-182C23?style=for-the-badge&amp;logo=supabase&amp;logoColor=3FCF8E">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-182C23?style=for-the-badge&amp;logo=firebase&amp;logoColor=FFCA28">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-182C23?style=for-the-badge&amp;logo=mysql&amp;logoColor=69A9C9">
+</p>
+
+<p><strong>Languages &amp; web</strong></p>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-182C23?style=for-the-badge&amp;logo=openjdk&amp;logoColor=ED8B00">
+  <img alt="Python" src="https://img.shields.io/badge/Python-182C23?style=for-the-badge&amp;logo=python&amp;logoColor=FFD343">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-182C23?style=for-the-badge&amp;logo=php&amp;logoColor=B0B3E8">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-182C23?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-182C23?style=for-the-badge&amp;logo=css&amp;logoColor=A78BFA">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-182C23?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E">
+</p>
+
+<p><strong>Tools</strong></p>
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-182C23?style=for-the-badge&amp;logo=git&amp;logoColor=F05032">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-182C23?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-182C23?style=for-the-badge&amp;logo=figma&amp;logoColor=F24E1E">
+</p>
+
+Flutter and Riverpod are my main focus. I also work with REST APIs, Oracle SQL and Firebase Realtime Database while developing my backend fundamentals. My networking coursework covers TCP/IP, VLANs, EtherChannel/LACP and Spanning Tree Protocol.
 
 <br>
 
