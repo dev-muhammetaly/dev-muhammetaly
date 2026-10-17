@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-label="Muhammetaly Annageldiyev — mobile and backend development">
 <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#26332e" stroke-width="1"/></pattern><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10241f"/><stop offset="1" stop-color="#10181c"/></linearGradient></defs>
 <rect width="1200" height="410" rx="24" fill="url(#bg)"/><rect width="1200" height="410" rx="24" fill="url(#grid)" opacity=".55"/>
-<rect x="46" y="42" width="170" height="30" rx="15" fill="#d7fba7"/><circle cx="63" cy="57" r="4" fill="#225438"/><text x="76" y="62" fill="#183a28" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">OPEN TO INTERNSHIPS</text>
+<rect x="46" y="42" width="215" height="30" rx="15" fill="#d7fba7"/><circle cx="63" cy="57" r="4" fill="#225438"/><text x="76" y="62" fill="#183a28" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">OPEN TO INTERNSHIPS</text>
 <text x="46" y="143" fill="#f5f4e9" font-family="Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-2">Muhammetaly</text>
 <text x="46" y="208" fill="#f5f4e9" font-family="Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-2">Annageldiyev<tspan fill="#d7fba7">.</tspan></text>
 <text x="49" y="255" fill="#bdcdc5" font-family="Arial,sans-serif" font-size="22">Mobile interfaces. Backend foundations.</text>
